@@ -23,7 +23,7 @@ build_exe_options = {
 }
 
 setup(
-    name = "VALORANT rank yoinker",
+    name = "VALORANT rank yoinker (WillSike)",
     version = version,
     description='vRY - VALORANT rank yoinker',
     executables = [Executable("main.py", icon="./assets/Logo.ico", target_name="vry.exe")],
