@@ -1,10 +1,10 @@
 import requests
 from colr import color
 
-version = "2.60"
+version = "2.61"
 enablePrivateLogging = True
-hide_names = True
-hide_levels = True
+hide_names = False
+hide_levels = False
 
 
 gamemodes = {
